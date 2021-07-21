@@ -4,6 +4,8 @@ It covers the following points:
 - Merging data from multiple data sources.
 - Performing memory efficient searching with Global Secondary Index.
 - Re Structioring of data.
+- data set taken from https://www.kaggle.com/
+- task is about car searching by name
 
 # To run the code:
 
