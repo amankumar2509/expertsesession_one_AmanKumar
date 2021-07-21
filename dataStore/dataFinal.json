@@ -1,0 +1,9002 @@
+{
+    "1": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 404177.0
+        }
+    },
+    "2": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 354313.0
+        }
+    },
+    "3": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "4": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 374326.0
+        }
+    },
+    "5": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 367216.0
+        }
+    },
+    "6": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 439056.0
+        }
+    },
+    "7": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "8": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 410764.0
+        }
+    },
+    "9": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 566123.0
+        }
+    },
+    "10": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 344127.0
+        }
+    },
+    "11": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 207105.0
+        }
+    },
+    "12": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "13": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 356231.0
+        }
+    },
+    "14": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 307559.0
+        }
+    },
+    "15": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "16": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 364648.0
+        }
+    },
+    "17": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 284836.0
+        }
+    },
+    "18": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "19": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 515526.0
+        }
+    },
+    "20": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 405581.0
+        }
+    },
+    "21": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 272348.0
+        }
+    },
+    "22": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 467580.0
+        }
+    },
+    "23": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 257586.0
+        }
+    },
+    "24": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "25": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "26": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "27": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 177150.0
+        }
+    },
+    "28": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 480698.0
+        }
+    },
+    "29": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 282096.0
+        }
+    },
+    "30": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 472084.0
+        }
+    },
+    "31": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 408992.0
+        }
+    },
+    "32": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 369669.0
+        }
+    },
+    "33": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 332102.0
+        }
+    },
+    "34": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "35": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "36": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 330021.0
+        }
+    },
+    "37": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 348764.0
+        }
+    },
+    "38": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 365244.0
+        }
+    },
+    "39": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 458804.0
+        }
+    },
+    "40": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 377619.0
+        }
+    },
+    "41": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "42": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "43": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 680558.0
+        }
+    },
+    "44": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 265671.0
+        }
+    },
+    "45": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "46": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 366773.0
+        }
+    },
+    "47": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 703554.0
+        }
+    },
+    "48": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "49": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 353776.0
+        }
+    },
+    "50": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "51": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 446284.0
+        }
+    },
+    "52": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "53": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 467250.0
+        }
+    },
+    "54": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 662351.0
+        }
+    },
+    "55": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 277540.0
+        }
+    },
+    "56": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 486770.0
+        }
+    },
+    "57": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 330743.0
+        }
+    },
+    "58": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 401404.0
+        }
+    },
+    "59": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 398236.0
+        }
+    },
+    "60": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 304629.0
+        }
+    },
+    "61": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 248620.0
+        }
+    },
+    "62": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 527700.0
+        }
+    },
+    "63": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1295740.0
+        }
+    },
+    "64": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 382854.0
+        }
+    },
+    "65": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "66": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 345903.0
+        }
+    },
+    "67": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "68": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 400848.0
+        }
+    },
+    "69": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "70": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 792382.0
+        }
+    },
+    "71": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "72": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "73": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 653679.0
+        }
+    },
+    "74": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 333904.0
+        }
+    },
+    "75": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 639725.0
+        }
+    },
+    "76": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 719426.0
+        }
+    },
+    "77": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 362578.0
+        }
+    },
+    "78": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1135210.0
+        }
+    },
+    "79": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1002280.0
+        }
+    },
+    "80": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 284657.0
+        }
+    },
+    "81": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 451448.0
+        }
+    },
+    "82": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 465496.0
+        }
+    },
+    "83": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 310189.0
+        }
+    },
+    "84": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 342500.0
+        }
+    },
+    "85": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 682666.0
+        }
+    },
+    "86": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 460540.0
+        }
+    },
+    "87": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 449780.0
+        }
+    },
+    "88": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 435703.0
+        }
+    },
+    "89": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 269270.0
+        }
+    },
+    "90": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 330354.0
+        }
+    },
+    "91": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 292706.0
+        }
+    },
+    "92": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 302963.0
+        }
+    },
+    "93": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 509892.0
+        }
+    },
+    "94": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "95": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 275375.0
+        }
+    },
+    "96": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 544319.0
+        }
+    },
+    "97": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "98": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 339745.0
+        }
+    },
+    "99": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "100": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 719548.0
+        }
+    },
+    "101": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "102": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 428945.0
+        }
+    },
+    "103": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 333899.0
+        }
+    },
+    "104": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1023449.0
+        }
+    },
+    "105": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 262473.0
+        }
+    },
+    "106": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 349285.0
+        }
+    },
+    "107": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1105910.0
+        }
+    },
+    "108": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 268499.0
+        }
+    },
+    "109": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "110": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 361544.0
+        }
+    },
+    "111": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 297556.0
+        }
+    },
+    "112": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 917232.0
+        }
+    },
+    "113": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 535699.0
+        }
+    },
+    "114": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 470977.0
+        }
+    },
+    "115": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 236421.0
+        }
+    },
+    "116": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 503313.0
+        }
+    },
+    "117": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 636898.0
+        }
+    },
+    "118": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 265408.0
+        }
+    },
+    "119": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "120": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 436632.0
+        }
+    },
+    "121": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 560624.0
+        }
+    },
+    "122": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 493700.0
+        }
+    },
+    "123": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "124": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 221714.0
+        }
+    },
+    "125": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "126": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1012190.0
+        }
+    },
+    "127": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1713713.0
+        }
+    },
+    "128": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 374585.0
+        }
+    },
+    "129": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "130": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 837780.0
+        }
+    },
+    "131": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1272552.0
+        }
+    },
+    "132": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "133": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 262687.0
+        }
+    },
+    "134": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 331199.0
+        }
+    },
+    "135": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 643090.0
+        }
+    },
+    "136": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 608343.0
+        }
+    },
+    "137": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 509599.0
+        }
+    },
+    "138": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "139": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "140": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "141": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 281810.0
+        }
+    },
+    "142": {
+        "fueltype": [
+            "petrol & lpg"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "143": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 367653.0
+        }
+    },
+    "144": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 517356.0
+        }
+    },
+    "145": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 824782.0
+        }
+    },
+    "146": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 538030.0
+        }
+    },
+    "147": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 391854.0
+        }
+    },
+    "148": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 295036.0
+        }
+    },
+    "149": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 355277.0
+        }
+    },
+    "150": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 410291.0
+        }
+    },
+    "151": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 493793.0
+        }
+    },
+    "152": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 443076.0
+        }
+    },
+    "153": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 910742.0
+        }
+    },
+    "154": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1194051.0
+        }
+    },
+    "155": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 987071.0
+        }
+    },
+    "156": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1532278.0
+        }
+    },
+    "157": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1510690.0
+        }
+    },
+    "158": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "159": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "160": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 467108.0
+        }
+    },
+    "161": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 270886.0
+        }
+    },
+    "162": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 313774.0
+        }
+    },
+    "163": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "164": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 515799.0
+        }
+    },
+    "165": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 585975.0
+        }
+    },
+    "166": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 521330.0
+        }
+    },
+    "167": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 360996.0
+        }
+    },
+    "168": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 413218.0
+        }
+    },
+    "169": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 240138.0
+        }
+    },
+    "170": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "171": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 258745.0
+        }
+    },
+    "172": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 663747.0
+        }
+    },
+    "173": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 679015.0
+        }
+    },
+    "174": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 695780.0
+        }
+    },
+    "175": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 399108.0
+        }
+    },
+    "176": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 570501.0
+        }
+    },
+    "177": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 285382.0
+        }
+    },
+    "178": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 203120.0
+        }
+    },
+    "179": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "180": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 295362.0
+        }
+    },
+    "181": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 344698.0
+        }
+    },
+    "182": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "183": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 203068.0
+        }
+    },
+    "184": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "185": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 241839.0
+        }
+    },
+    "186": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 381015.0
+        }
+    },
+    "187": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 282252.0
+        }
+    },
+    "188": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 219657.0
+        }
+    },
+    "189": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1190183.0
+        }
+    },
+    "190": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 869580.0
+        }
+    },
+    "191": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 773687.0
+        }
+    },
+    "192": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 715850.0
+        }
+    },
+    "193": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 880826.0
+        }
+    },
+    "194": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 510511.0
+        }
+    },
+    "195": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 539287.0
+        }
+    },
+    "196": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 981835.0
+        }
+    },
+    "197": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 844852.0
+        }
+    },
+    "198": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 432822.0
+        }
+    },
+    "199": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 292134.0
+        }
+    },
+    "200": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 935075.0
+        }
+    },
+    "201": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "202": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 516724.0
+        }
+    },
+    "203": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 325340.0
+        }
+    },
+    "204": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 229653.0
+        }
+    },
+    "205": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 621346.0
+        }
+    },
+    "206": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 349618.0
+        }
+    },
+    "207": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "208": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 2085889.0
+        }
+    },
+    "209": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 681350.0
+        }
+    },
+    "210": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 261543.0
+        }
+    },
+    "211": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 727418.0
+        }
+    },
+    "212": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 982967.0
+        }
+    },
+    "213": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 326710.0
+        }
+    },
+    "214": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "215": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "216": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 149393.0
+        }
+    },
+    "217": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 2053200.0
+        }
+    },
+    "218": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 379281.0
+        }
+    },
+    "219": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "220": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "221": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 541693.0
+        }
+    },
+    "222": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 974052.0
+        }
+    },
+    "223": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 293378.0
+        }
+    },
+    "224": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "225": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "226": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 418624.0
+        }
+    },
+    "227": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1359937.0
+        }
+    },
+    "228": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 568889.0
+        }
+    },
+    "229": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "230": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "231": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 430359.0
+        }
+    },
+    "232": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 275320.0
+        }
+    },
+    "233": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 593482.0
+        }
+    },
+    "234": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 339367.0
+        }
+    },
+    "235": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "236": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 388983.0
+        }
+    },
+    "237": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 609475.0
+        }
+    },
+    "238": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 779212.0
+        }
+    },
+    "239": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 667508.0
+        }
+    },
+    "240": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 731634.0
+        }
+    },
+    "241": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 300952.0
+        }
+    },
+    "242": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 271963.0
+        }
+    },
+    "243": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 167036.0
+        }
+    },
+    "244": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 324451.0
+        }
+    },
+    "245": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": 154745.0
+        }
+    },
+    "246": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "247": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 999716.0
+        }
+    },
+    "248": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 786657.0
+        }
+    },
+    "249": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 977079.0
+        }
+    },
+    "250": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 486705.0
+        }
+    },
+    "251": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "252": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 164999.0
+        }
+    },
+    "253": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 705613.0
+        }
+    },
+    "254": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 655064.0
+        }
+    },
+    "255": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "256": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1838519.0
+        }
+    },
+    "257": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1027011.0
+        }
+    },
+    "258": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 885331.0
+        }
+    },
+    "259": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1597369.0
+        }
+    },
+    "260": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 610832.0
+        }
+    },
+    "261": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1012038.0
+        }
+    },
+    "262": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 325520.0
+        }
+    },
+    "263": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 506291.0
+        }
+    },
+    "264": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "265": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "266": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "267": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": NaN,
+            "original_price": NaN
+        }
+    },
+    "268": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "269": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "270": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "271": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "272": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "273": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "274": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "275": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "276": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "277": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "278": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "279": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 391940.0
+        }
+    },
+    "280": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "281": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 587400.0
+        }
+    },
+    "282": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "283": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 242925.0
+        }
+    },
+    "284": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 436759.0
+        }
+    },
+    "285": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "286": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 442157.0
+        }
+    },
+    "287": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 200043.0
+        }
+    },
+    "288": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 356538.0
+        }
+    },
+    "289": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 349000.0
+        }
+    },
+    "290": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 366899.0
+        }
+    },
+    "291": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "292": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "293": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "294": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 533899.0
+        }
+    },
+    "295": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 369510.0
+        }
+    },
+    "296": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "297": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 906288.0
+        }
+    },
+    "298": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "299": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 500914.0
+        }
+    },
+    "300": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 396800.0
+        }
+    },
+    "301": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 326060.0
+        }
+    },
+    "302": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "303": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 414424.0
+        }
+    },
+    "304": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "305": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 323331.0
+        }
+    },
+    "306": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "307": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "308": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 232866.0
+        }
+    },
+    "309": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 526496.0
+        }
+    },
+    "310": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 214760.0
+        }
+    },
+    "311": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "312": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "313": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 406750.0
+        }
+    },
+    "314": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 317400.0
+        }
+    },
+    "315": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "316": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "317": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 404633.0
+        }
+    },
+    "318": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "319": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "320": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 277799.0
+        }
+    },
+    "321": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 534128.0
+        }
+    },
+    "322": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "323": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 548500.0
+        }
+    },
+    "324": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 358143.0
+        }
+    },
+    "325": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 456560.0
+        }
+    },
+    "326": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "327": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 630699.0
+        }
+    },
+    "328": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "329": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 256714.0
+        }
+    },
+    "330": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 696694.0
+        }
+    },
+    "331": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 784833.0
+        }
+    },
+    "332": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 213413.0
+        }
+    },
+    "333": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "334": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "335": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 270330.0
+        }
+    },
+    "336": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "337": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "338": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "339": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 598403.0
+        }
+    },
+    "340": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "341": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 185745.0
+        }
+    },
+    "342": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "343": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 495000.0
+        }
+    },
+    "344": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "345": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "346": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1483500.0
+        }
+    },
+    "347": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1042014.0
+        }
+    },
+    "348": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "349": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1241619.0
+        }
+    },
+    "350": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "351": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "352": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 833470.0
+        }
+    },
+    "353": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 974525.0
+        }
+    },
+    "354": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "355": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "356": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 985423.0
+        }
+    },
+    "357": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "358": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 449346.0
+        }
+    },
+    "359": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 369999.0
+        }
+    },
+    "360": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "361": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 546600.0
+        }
+    },
+    "362": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "363": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "364": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 507260.0
+        }
+    },
+    "365": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 307028.0
+        }
+    },
+    "366": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 621403.0
+        }
+    },
+    "367": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "368": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 512915.0
+        }
+    },
+    "369": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "370": {
+        "fueltype": [
+            "electric"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 389000.0
+        }
+    },
+    "371": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 397631.0
+        }
+    },
+    "372": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 971575.0
+        }
+    },
+    "373": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 302880.0
+        }
+    },
+    "374": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 434736.0
+        }
+    },
+    "375": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 668280.0
+        }
+    },
+    "376": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 305495.0
+        }
+    },
+    "377": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 346396.0
+        }
+    },
+    "378": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 500245.0
+        }
+    },
+    "379": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "380": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "381": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 734314.0
+        }
+    },
+    "382": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 514674.0
+        }
+    },
+    "383": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "384": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "385": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "386": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "387": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 982267.0
+        }
+    },
+    "388": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 542932.0
+        }
+    },
+    "389": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 326799.0
+        }
+    },
+    "390": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 230564.0
+        }
+    },
+    "391": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "392": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 362820.0
+        }
+    },
+    "393": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "394": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "395": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 494101.0
+        }
+    },
+    "396": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "397": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 343573.0
+        }
+    },
+    "398": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1593500.0
+        }
+    },
+    "399": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 294630.0
+        }
+    },
+    "400": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 398540.0
+        }
+    },
+    "401": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "402": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "403": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 383361.0
+        }
+    },
+    "404": {
+        "fueltype": [
+            "petrol & lpg"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 368595.0
+        }
+    },
+    "405": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 369412.0
+        }
+    },
+    "406": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "407": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 302299.0
+        }
+    },
+    "408": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "409": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 397464.0
+        }
+    },
+    "410": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 465599.0
+        }
+    },
+    "411": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "412": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "413": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 471205.0
+        }
+    },
+    "414": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 345899.0
+        }
+    },
+    "415": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 448316.0
+        }
+    },
+    "416": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1116708.0
+        }
+    },
+    "417": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "418": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 449890.0
+        }
+    },
+    "419": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 337830.0
+        }
+    },
+    "420": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 379753.0
+        }
+    },
+    "421": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 341798.0
+        }
+    },
+    "422": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 573000.0
+        }
+    },
+    "423": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 324837.0
+        }
+    },
+    "424": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 515400.0
+        }
+    },
+    "425": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1187167.0
+        }
+    },
+    "426": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 469973.0
+        }
+    },
+    "427": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 368056.0
+        }
+    },
+    "428": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "429": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1067659.0
+        }
+    },
+    "430": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "431": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 321680.0
+        }
+    },
+    "432": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 396454.0
+        }
+    },
+    "433": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1062066.0
+        }
+    },
+    "434": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 770891.0
+        }
+    },
+    "435": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1058744.0
+        }
+    },
+    "436": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1249075.0
+        }
+    },
+    "437": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "438": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "439": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 288599.0
+        }
+    },
+    "440": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "441": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 327599.0
+        }
+    },
+    "442": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 314388.0
+        }
+    },
+    "443": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "444": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "445": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 411876.0
+        }
+    },
+    "446": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "447": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 984201.0
+        }
+    },
+    "448": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 298599.0
+        }
+    },
+    "449": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 834806.0
+        }
+    },
+    "450": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 293999.0
+        }
+    },
+    "451": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 312099.0
+        }
+    },
+    "452": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1018987.0
+        }
+    },
+    "453": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 161499.0
+        }
+    },
+    "454": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 290500.0
+        }
+    },
+    "455": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 564900.0
+        }
+    },
+    "456": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 431224.0
+        }
+    },
+    "457": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1290266.0
+        }
+    },
+    "458": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 903000.0
+        }
+    },
+    "459": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 184299.0
+        }
+    },
+    "460": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "461": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 935780.0
+        }
+    },
+    "462": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 529680.0
+        }
+    },
+    "463": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "464": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 307499.0
+        }
+    },
+    "465": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 421805.0
+        }
+    },
+    "466": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 413270.0
+        }
+    },
+    "467": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 379198.0
+        }
+    },
+    "468": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 330859.0
+        }
+    },
+    "469": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 518133.0
+        }
+    },
+    "470": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 354608.0
+        }
+    },
+    "471": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 326512.0
+        }
+    },
+    "472": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 499149.0
+        }
+    },
+    "473": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 317825.0
+        }
+    },
+    "474": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 440345.0
+        }
+    },
+    "475": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 481639.0
+        }
+    },
+    "476": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "477": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 394685.0
+        }
+    },
+    "478": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 493546.0
+        }
+    },
+    "479": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "480": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 502380.0
+        }
+    },
+    "481": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 291602.0
+        }
+    },
+    "482": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 523807.0
+        }
+    },
+    "483": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 484916.0
+        }
+    },
+    "484": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "485": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 418999.0
+        }
+    },
+    "486": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 526200.0
+        }
+    },
+    "487": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 353762.0
+        }
+    },
+    "488": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 362643.0
+        }
+    },
+    "489": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 529522.0
+        }
+    },
+    "490": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 190287.0
+        }
+    },
+    "491": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 653280.0
+        }
+    },
+    "492": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 387810.0
+        }
+    },
+    "493": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "494": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 559854.0
+        }
+    },
+    "495": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 956520.0
+        }
+    },
+    "496": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 731000.0
+        }
+    },
+    "497": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 916375.0
+        }
+    },
+    "498": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 401611.0
+        }
+    },
+    "499": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1793257.0
+        }
+    },
+    "500": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 325500.0
+        }
+    },
+    "501": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 786457.0
+        }
+    },
+    "502": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "503": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "504": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "505": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "506": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 789752.0
+        }
+    },
+    "507": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "508": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 448624.0
+        }
+    },
+    "509": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 962519.0
+        }
+    },
+    "510": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "511": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "512": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 630631.0
+        }
+    },
+    "513": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 379503.0
+        }
+    },
+    "514": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 714589.0
+        }
+    },
+    "515": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "516": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "517": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "518": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 538700.0
+        }
+    },
+    "519": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "520": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 995205.0
+        }
+    },
+    "521": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 497299.0
+        }
+    },
+    "522": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 585500.0
+        }
+    },
+    "523": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "524": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "525": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 469474.0
+        }
+    },
+    "526": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1258553.0
+        }
+    },
+    "527": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1162939.0
+        }
+    },
+    "528": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 685830.0
+        }
+    },
+    "529": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 410500.0
+        }
+    },
+    "530": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "531": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 489696.0
+        }
+    },
+    "532": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 738922.0
+        }
+    },
+    "533": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "534": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 505273.0
+        }
+    },
+    "535": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 835630.0
+        }
+    },
+    "536": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 443678.0
+        }
+    },
+    "537": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 726390.0
+        }
+    },
+    "538": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 453300.0
+        }
+    },
+    "539": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "540": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "541": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "542": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 194540.0
+        }
+    },
+    "543": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 115099.0
+        }
+    },
+    "544": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 374628.0
+        }
+    },
+    "545": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "546": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "547": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 414418.0
+        }
+    },
+    "548": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 589187.0
+        }
+    },
+    "549": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "550": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "551": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "552": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "553": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "554": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "555": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 561900.0
+        }
+    },
+    "556": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "557": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 544762.0
+        }
+    },
+    "558": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 531866.0
+        }
+    },
+    "559": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "560": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1850569.0
+        }
+    },
+    "561": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1185041.0
+        }
+    },
+    "562": {
+        "fueltype": [
+            "petrol & lpg"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 780560.0
+        }
+    },
+    "563": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "564": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "565": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "566": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "567": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "568": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "569": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "570": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "571": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "572": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "573": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "574": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "575": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "576": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "577": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "578": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "579": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "580": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "581": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "582": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "583": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "584": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "585": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "586": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "587": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "588": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "589": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "590": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "overpriced",
+            "original_price": NaN
+        }
+    },
+    "591": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "592": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 297799.0
+        }
+    },
+    "593": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 238999.0
+        }
+    },
+    "594": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 178999.0
+        }
+    },
+    "595": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 368899.0
+        }
+    },
+    "596": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 540690.0
+        }
+    },
+    "597": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "598": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "599": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 377599.0
+        }
+    },
+    "600": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "601": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "602": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "603": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 511440.0
+        }
+    },
+    "604": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 569940.0
+        }
+    },
+    "605": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 301099.0
+        }
+    },
+    "606": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "607": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "608": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 468970.0
+        }
+    },
+    "609": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 348299.0
+        }
+    },
+    "610": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "611": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 329299.0
+        }
+    },
+    "612": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 579300.0
+        }
+    },
+    "613": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 348540.0
+        }
+    },
+    "614": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "615": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "616": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "617": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 328599.0
+        }
+    },
+    "618": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 428724.0
+        }
+    },
+    "619": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 233699.0
+        }
+    },
+    "620": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "621": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "622": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "623": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 372599.0
+        }
+    },
+    "624": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 447199.0
+        }
+    },
+    "625": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "626": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 320999.0
+        }
+    },
+    "627": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 251500.0
+        }
+    },
+    "628": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 485767.0
+        }
+    },
+    "629": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 440765.0
+        }
+    },
+    "630": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 314399.0
+        }
+    },
+    "631": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 330568.0
+        }
+    },
+    "632": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "633": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "634": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "635": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "636": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "637": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "638": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 280328.0
+        }
+    },
+    "639": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 356799.0
+        }
+    },
+    "640": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "641": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 252399.0
+        }
+    },
+    "642": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "643": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "644": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "645": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 502608.0
+        }
+    },
+    "646": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "647": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "648": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 697683.0
+        }
+    },
+    "649": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 407499.0
+        }
+    },
+    "650": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "651": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "652": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "653": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "654": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 395899.0
+        }
+    },
+    "655": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 416718.0
+        }
+    },
+    "656": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "657": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "658": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 255599.0
+        }
+    },
+    "659": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "660": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 351199.0
+        }
+    },
+    "661": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 273451.0
+        }
+    },
+    "662": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "663": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 471705.0
+        }
+    },
+    "664": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 588575.0
+        }
+    },
+    "665": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 321051.0
+        }
+    },
+    "666": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "667": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 368399.0
+        }
+    },
+    "668": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 322099.0
+        }
+    },
+    "669": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 293499.0
+        }
+    },
+    "670": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "671": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 463381.0
+        }
+    },
+    "672": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "673": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 391204.0
+        }
+    },
+    "674": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 384240.0
+        }
+    },
+    "675": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 517382.0
+        }
+    },
+    "676": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "677": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "678": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 341500.0
+        }
+    },
+    "679": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 354799.0
+        }
+    },
+    "680": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 205799.0
+        }
+    },
+    "681": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 490209.0
+        }
+    },
+    "682": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 337199.0
+        }
+    },
+    "683": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "684": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 447890.0
+        }
+    },
+    "685": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "686": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 446123.0
+        }
+    },
+    "687": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 521930.0
+        }
+    },
+    "688": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "689": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "690": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "691": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 446099.0
+        }
+    },
+    "692": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 408999.0
+        }
+    },
+    "693": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 488742.0
+        }
+    },
+    "694": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 655390.0
+        }
+    },
+    "695": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "696": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 375553.0
+        }
+    },
+    "697": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 394956.0
+        }
+    },
+    "698": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 228576.0
+        }
+    },
+    "699": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 391699.0
+        }
+    },
+    "700": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "701": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "702": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 457599.0
+        }
+    },
+    "703": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "704": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "705": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 493622.0
+        }
+    },
+    "706": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "707": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 263703.0
+        }
+    },
+    "708": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "709": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "710": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "711": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 300940.0
+        }
+    },
+    "712": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "713": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "714": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 760185.0
+        }
+    },
+    "715": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 361199.0
+        }
+    },
+    "716": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 294699.0
+        }
+    },
+    "717": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 266699.0
+        }
+    },
+    "718": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "719": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "720": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "721": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "722": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 370201.0
+        }
+    },
+    "723": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 308099.0
+        }
+    },
+    "724": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "725": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 319866.0
+        }
+    },
+    "726": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 318499.0
+        }
+    },
+    "727": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "728": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 431840.0
+        }
+    },
+    "729": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "730": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "731": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "732": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "733": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "734": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "735": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 656580.0
+        }
+    },
+    "736": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "737": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 501399.0
+        }
+    },
+    "738": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 531330.0
+        }
+    },
+    "739": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 400199.0
+        }
+    },
+    "740": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 497999.0
+        }
+    },
+    "741": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "742": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "743": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "744": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "745": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "746": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 450720.0
+        }
+    },
+    "747": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 244599.0
+        }
+    },
+    "748": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "749": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "750": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 349016.0
+        }
+    },
+    "751": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "752": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 347499.0
+        }
+    },
+    "753": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 334199.0
+        }
+    },
+    "754": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "755": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 385799.0
+        }
+    },
+    "756": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "757": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "758": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 506099.0
+        }
+    },
+    "759": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "760": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 579275.0
+        }
+    },
+    "761": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "762": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 592829.0
+        }
+    },
+    "763": {
+        "fueltype": [
+            "petrol & lpg"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "764": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "765": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 520975.0
+        }
+    },
+    "766": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "767": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 411773.0
+        }
+    },
+    "768": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 225599.0
+        }
+    },
+    "769": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "770": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "771": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "772": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 910601.0
+        }
+    },
+    "773": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "774": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 681522.0
+        }
+    },
+    "775": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 343299.0
+        }
+    },
+    "776": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 408199.0
+        }
+    },
+    "777": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 385699.0
+        }
+    },
+    "778": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "779": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "780": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "781": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "782": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "783": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "784": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "785": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 501935.0
+        }
+    },
+    "786": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "787": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "788": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "789": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 497405.0
+        }
+    },
+    "790": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 422274.0
+        }
+    },
+    "791": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "792": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "793": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 226645.0
+        }
+    },
+    "794": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 368899.0
+        }
+    },
+    "795": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "796": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "797": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "798": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "799": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "800": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "801": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "802": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 261699.0
+        }
+    },
+    "803": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "804": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 209199.0
+        }
+    },
+    "805": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 197799.0
+        }
+    },
+    "806": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "807": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "808": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 331099.0
+        }
+    },
+    "809": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "810": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "811": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "812": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "813": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "814": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "815": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "816": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 359499.0
+        }
+    },
+    "817": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "818": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "819": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 288537.0
+        }
+    },
+    "820": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "821": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 542000.0
+        }
+    },
+    "822": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 404589.0
+        }
+    },
+    "823": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "824": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "825": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "826": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "827": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 627330.0
+        }
+    },
+    "828": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "829": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "830": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "831": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "832": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "833": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "834": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "835": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "836": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "837": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "838": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 586861.0
+        }
+    },
+    "839": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "840": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 303299.0
+        }
+    },
+    "841": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "842": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "843": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "844": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "845": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "846": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "847": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "848": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "849": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 382899.0
+        }
+    },
+    "850": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "851": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 514077.0
+        }
+    },
+    "852": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 360440.0
+        }
+    },
+    "853": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "854": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "855": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "856": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 516328.0
+        }
+    },
+    "857": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "858": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "859": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 330899.0
+        }
+    },
+    "860": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "861": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 455640.0
+        }
+    },
+    "862": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 370299.0
+        }
+    },
+    "863": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "864": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 524899.0
+        }
+    },
+    "865": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "866": {
+        "fueltype": [
+            "petrol & lpg"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 459768.0
+        }
+    },
+    "867": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 567063.0
+        }
+    },
+    "868": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 705123.0
+        }
+    },
+    "869": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "870": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "871": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 324599.0
+        }
+    },
+    "872": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "873": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "874": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "875": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "876": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "877": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "878": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "879": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "880": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 196299.0
+        }
+    },
+    "881": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 396140.0
+        }
+    },
+    "882": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 366099.0
+        }
+    },
+    "883": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 636964.0
+        }
+    },
+    "884": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 642590.0
+        }
+    },
+    "885": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 403844.0
+        }
+    },
+    "886": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 628448.0
+        }
+    },
+    "887": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 387099.0
+        }
+    },
+    "888": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "889": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "890": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 684002.0
+        }
+    },
+    "891": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 308999.0
+        }
+    },
+    "892": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "893": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 647932.0
+        }
+    },
+    "894": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "895": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "896": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "897": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "898": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 227945.0
+        }
+    },
+    "899": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "900": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 273399.0
+        }
+    },
+    "901": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 392799.0
+        }
+    },
+    "902": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 561750.0
+        }
+    },
+    "903": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "904": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "905": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "906": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 403299.0
+        }
+    },
+    "907": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 309703.0
+        }
+    },
+    "908": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "909": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 267099.0
+        }
+    },
+    "910": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 406850.0
+        }
+    },
+    "911": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "912": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "913": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "914": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 678500.0
+        }
+    },
+    "915": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 366599.0
+        }
+    },
+    "916": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "917": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "918": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "919": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 343999.0
+        }
+    },
+    "920": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 312840.0
+        }
+    },
+    "921": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "922": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "923": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "924": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 598956.0
+        }
+    },
+    "925": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 803423.0
+        }
+    },
+    "926": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "927": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 750402.0
+        }
+    },
+    "928": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "929": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "fair",
+            "original_price": NaN
+        }
+    },
+    "930": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 711199.0
+        }
+    },
+    "931": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "932": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "933": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "934": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "935": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "936": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "937": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "938": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "939": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "940": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 740072.0
+        }
+    },
+    "941": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 666276.0
+        }
+    },
+    "942": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 240676.0
+        }
+    },
+    "943": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "944": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "945": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 283090.0
+        }
+    },
+    "946": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "947": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "948": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 548309.0
+        }
+    },
+    "949": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 663206.0
+        }
+    },
+    "950": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 532500.0
+        }
+    },
+    "951": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 840855.0
+        }
+    },
+    "952": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "953": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "954": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "955": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 624405.0
+        }
+    },
+    "956": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "957": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "958": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "959": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "960": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "961": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 349016.0
+        }
+    },
+    "962": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 493699.0
+        }
+    },
+    "963": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "964": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "965": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "966": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "967": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 716111.0
+        }
+    },
+    "968": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "969": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "970": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 830699.0
+        }
+    },
+    "971": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "972": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "973": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "974": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 637708.0
+        }
+    },
+    "975": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 645384.0
+        }
+    },
+    "976": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 539318.0
+        }
+    },
+    "977": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "978": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": 246570.0
+        }
+    },
+    "979": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 634066.0
+        }
+    },
+    "980": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "981": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "982": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "983": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "984": {
+        "fueltype": [
+            "petrol & cng"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "985": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "986": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "987": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "988": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 1034480.0
+        }
+    },
+    "989": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 726337.0
+        }
+    },
+    "990": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "991": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 349016.0
+        }
+    },
+    "992": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 791026.0
+        }
+    },
+    "993": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 543381.0
+        }
+    },
+    "994": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "995": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 284130.0
+        }
+    },
+    "996": {
+        "fueltype": [
+            "petrol & lpg"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": NaN
+        }
+    },
+    "997": {
+        "fueltype": [
+            "diesel"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 239899.0
+        }
+    },
+    "998": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 555900.0
+        }
+    },
+    "999": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "good",
+            "original_price": NaN
+        }
+    },
+    "1000": {
+        "fueltype": [
+            "petrol"
+        ],
+        "trains": {
+            "car_rating": "great",
+            "original_price": 492439.0
+        }
+    }
+}
