@@ -8,6 +8,8 @@ It covers the following points:
 # To run the code:
 
 1.Clone the github repository in your computer. git clone //https://github.com/amankumar2509/expertsesession_one_AmanKumar.git
+
 2.Run DataPreparation.ipynb file which will create two json files in datastore folder.
+
 3.Run DatabaseSearch.ipynb file to search for car names across the newly created data store.
 That's it.
